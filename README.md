@@ -1,5 +1,11 @@
 <h1>Project Title</h1>
 Netflix Content Strategy Dashboard
+## Data Set Used
+<a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/netflix1.csv"> Netlix file</a>
+##Porject Files
+<a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/netflix%20powerbi.pbix"> Power BI File</a>
+<br></br>
+<a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/Screenshot%202026-02-06%20194637.png"> Project Screen Shot </a>
 <h1>1. Project Overview</h1>
 Netflix has a massive library of over 8,000 titles. However, looking at a plain list of movies makes it hard to see trends. 
 <br></br>
