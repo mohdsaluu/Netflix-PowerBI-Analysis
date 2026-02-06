@@ -1,8 +1,8 @@
 <h1>Project Title</h1>
-Netflix Content Strategy Dashboard
-## Data Set Used
-<a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/netflix1.csv"> Netlix file</a>
-##Porject Files
+Netflix Content Strategy Dashboard <br></br>
+<h3>Data Set Used</h3>
+<a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/netflix1.csv"> Netlix file</a><br></br>
+<h3>Porject Files</h3>
 <a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/netflix%20powerbi.pbix"> Power BI File</a>
 <br></br>
 <a href="https://github.com/mohdsaluu/Netflix-PowerBI-Analysis/blob/main/Screenshot%202026-02-06%20194637.png"> Project Screen Shot </a>
